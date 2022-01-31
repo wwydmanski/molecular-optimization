@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+data/
+weights/
+combined/
+pre-trained/
+pre-trained.zip
+tb_logs/
+.ipynb_checkpoints/
