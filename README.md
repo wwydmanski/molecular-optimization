@@ -24,7 +24,7 @@ The optimization framework consists of three elements - attention loss, latent s
 Sample optimizations of a molecule to be a better Mu-receptor antagonist (prediction format: `[binding probability, 1-antagonist probability]`)
 ![Sample optimization](https://i.imgur.com/QYoxbhJ.png)
 
-DILI chance optimization (don't pay too much attention to this one, we had a weak classifier)
+DILI chance optimization (don't pay too much attention to this one, we had a poor classifier)
 ![Sample optimization](https://i.imgur.com/IOQiAuG.png)
 
 ## Scoring functions AUC
