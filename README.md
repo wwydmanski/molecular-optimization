@@ -8,7 +8,7 @@ The optimization framework consists of three elements - attention loss, latent s
 
  - Attention loss helps us in maintaining integrity of the molecule. Chemformer's attention heads penalize modifications which lead to an invalid molecule.
  - Latent space distance helps us in sticking to the purpose of the original molecule - it measures the semantic difference between our modified molecule and the sourceo ne.
- - User-defined objective can by any function which accepts SMILES and returns a scalar. 
+ - User-defined objective can be any function which accepts SMILES and returns a scalar. 
 
 ## Architecture
 ![Framework overview](https://i.imgur.com/uYNyr13.png)
